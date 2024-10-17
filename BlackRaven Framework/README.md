@@ -1,18 +1,18 @@
 
-# Black Raven -  Pentesting Framework
+# Black Raven - penetration testing framework
 
-Black Raven V1.3 - It's a IoT/Web Pentesting Framework to exploit Vulnerabilitys.
+Black Raven its a penetration testing framework With exploits, malware.
+So you can do your tests in your secure environment, and improve your systems.
 
 
 
 
 ## Features
 
+- Blue Eternal Windows RCE
 - Easy To use
 - Network Hijacking
 - Cross platform
-- Scada support
-- ICS/IoT Privilege Escalation
 
 
 ## Badges
@@ -50,7 +50,15 @@ To deploy this project run
 - [@rootkit_sec](https://www.github.com/retr0security)
 
 
+## FAQ
 
+#### Work in the cloud? (Linux, windows Servers)
+
+Yes, The framework can run very fast in a linux & windows Servers
+
+#### Work On any Operative system?
+
+Yes, The framework work on: Linux, MacOS, Windows
 
 
 
